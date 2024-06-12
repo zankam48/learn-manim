@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding Project/manim/media/videos/07.d.opacity_by_tex/480p15/partial_movie_files/TexOpacityExample/1185818338_283229079_223132457.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.d.opacity_by_tex/480p15/partial_movie_files/TexOpacityExample/624642324_1704852926_542440841.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.d.opacity_by_tex/480p15/partial_movie_files/TexOpacityExample/624642324_538424983_3958053908.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.d.opacity_by_tex/480p15/partial_movie_files/TexOpacityExample/624642324_1704852926_2639164561.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.d.opacity_by_tex/480p15/partial_movie_files/TexOpacityExample/624642324_3951589434_2917453141.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.d.opacity_by_tex/480p15/partial_movie_files/TexOpacityExample/624642324_1704852926_1732795118.mp4'

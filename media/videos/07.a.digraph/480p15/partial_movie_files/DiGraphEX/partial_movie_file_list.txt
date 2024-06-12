@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Coding Project/manim/media/videos/07.a.digraph/480p15/partial_movie_files/DiGraphEX/1185818338_2108391982_223132457.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.a.digraph/480p15/partial_movie_files/DiGraphEX/624642324_1704852926_3329390053.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.a.digraph/480p15/partial_movie_files/DiGraphEX/624642324_805875152_3169679834.mp4'
+file 'file:D:/Coding Project/manim/media/videos/07.a.digraph/480p15/partial_movie_files/DiGraphEX/624642324_1704852926_951295343.mp4'
